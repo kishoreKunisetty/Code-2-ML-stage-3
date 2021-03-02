@@ -1,0 +1,9 @@
+requirements:
+pandas, scikit-learn
+
+for computation:
+jupiter notebook, google colab
+
+language: python
+
+data input formate: xlsx
