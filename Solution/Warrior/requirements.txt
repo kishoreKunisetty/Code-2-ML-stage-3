@@ -1,0 +1,9 @@
+requirements :
+tensorflow(ML framework) , pandas ,
+
+for computation :
+jupiter notebook , google colab
+
+language : python
+
+data input format : csv
